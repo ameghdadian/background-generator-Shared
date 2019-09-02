@@ -1,0 +1,23 @@
+{
+  "name": "background-generator-Shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consDev/background-generator-Shared.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/consDev/background-generator-Shared/issues"
+  },
+  "homepage": "https://github.com/consDev/background-generator-Shared#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
